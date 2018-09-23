@@ -198,6 +198,7 @@ On another terminal.
 - `cd blockchain-explorer/app/test`
 - `npm install`
 - `npm run test`
+- `cd ../..`
 - `cd client/`
 - `npm install`
 - `npm test -- -u --coverage`
